@@ -98,4 +98,4 @@ G16 Managerは、Pythonのtkinterライブラリを用いて開発されたGUI�
     ```bash
     pyinstaller g16_manager.spec
     ```
-この手順に従うことで、G16 ManagerアプリケーションをWindowsの実行可能ファイルとして配布する準備が整います。
+この手順に従うことで、G16 ManagerアプリケーションをWindowsの実行可能ファイルとして利用できます。
